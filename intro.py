@@ -215,7 +215,8 @@ student_info(*courses,**info)
 
 'IMPORT MODULES'
 
-import my_module  as mm # /if you want to use one function use from my_module import find_index, test
+import my_module  as mm
+#/if you want to use one function use from my_module import find_index, test
 
 courses=['Math','Physics','CompSci']
 
