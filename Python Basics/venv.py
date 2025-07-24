@@ -88,8 +88,8 @@ When you install packages you want, you can say  'pip list' to see them
 pip list
 Package Version
 ------- -------
-numpy   2.3.1
-pip     25.1.1
+numpy 2.3.1
+pip   25.1.1
 psutil  7.0.0
 pytz    2025.2
 
